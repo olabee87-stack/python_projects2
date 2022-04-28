@@ -19,5 +19,11 @@ def print_name():
     return print(email)
 
 
-print_name()
+def esc_str():
+    word = 'Hello Bisi, \nHow are you ?'
+    return word
+
+print(esc_str())
+
+# print_name()
 
