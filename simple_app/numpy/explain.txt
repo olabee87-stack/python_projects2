@@ -1,0 +1,20 @@
+What is Numpy?
+
+# It is a multidimensional
+# It is faster than using lists, so it is fast
+# Numpy used fixed types - hence it occupies lesser space than the lists
+# Faster to read less bytes of memory
+# Numpy uses contiguous memory but lists are scattered around, they are not next to each other.
+# This causes longer memory lookups for lists
+
+
+Differences
+Lists: You can insert, delete, append and concat
+NumPy: You can do all and lots more
+
+Numpy
+***********
+- Can be used for Plotting(Matplotlib)
+Mathematics(MATLAB replacement)
+Backend(Pandas, Coneect 4, Digital Photography)
+Machine learning applications eg Tensors which is similar to numpy

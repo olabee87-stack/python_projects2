@@ -1,4 +1,4 @@
-# Classes are blueprints to create something from
+ # Classes are blueprints to create something from
 # The object is the main thing, and we create objects by using classes
 # The __init__ is the constructor in python
 # Inside the __init__, the 'self' has to be the first parameter passed into it
